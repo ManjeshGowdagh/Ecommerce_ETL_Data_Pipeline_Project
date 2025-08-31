@@ -1,0 +1,15 @@
+customer_id,customer_name,email,phone,address,city,state,zip_code,age,registration_date
+CUST001,John Smith,john.smith@email.com,555-0101,123 Main St,New York,NY,10001,32,2023-01-15
+CUST002,Sarah Johnson,sarah.j@email.com,555-0102,456 Oak Ave,Los Angeles,CA,90210,28,2023-02-20
+CUST003,Mike Davis,mike.davis@email.com,555-0103,789 Pine Rd,Chicago,IL,60601,45,2023-03-10
+CUST004,Emily Brown,emily.brown@email.com,555-0104,321 Elm St,Houston,TX,77001,35,2023-04-05
+CUST005,David Wilson,david.w@email.com,555-0105,654 Maple Dr,Phoenix,AZ,85001,29,2023-05-12
+CUST006,Lisa Miller,lisa.miller@email.com,555-0106,987 Cedar Ln,Philadelphia,PA,19101,41,2023-06-18
+CUST007,Chris Taylor,chris.t@email.com,555-0107,147 Birch St,San Antonio,TX,78201,33,2023-07-22
+CUST008,Amanda Garcia,amanda.g@email.com,555-0108,258 Spruce Ave,San Diego,CA,92101,27,2023-08-14
+CUST009,Robert Martinez,robert.m@email.com,555-0109,369 Walnut Rd,Dallas,TX,75201,52,2023-09-08
+CUST010,Jennifer Lopez,jennifer.l@email.com,555-0110,741 Chestnut Dr,San Jose,CA,95101,38,2023-10-03
+CUST011,Mark Anderson,mark.a@email.com,555-0111,852 Hickory Ln,Austin,TX,78701,31,2023-11-15
+CUST012,Jessica White,jessica.w@email.com,555-0112,963 Ash St,Jacksonville,FL,32201,44,2023-12-01
+CUST013,Kevin Thompson,kevin.t@email.com,555-0113,159 Poplar Ave,Fort Worth,TX,76101,26,2024-01-10
+CUST014,Rachel Green,rachel.g@email.com,555-0114,357 Willow Rd,Columbus,OH,43201,39,2024-01-20

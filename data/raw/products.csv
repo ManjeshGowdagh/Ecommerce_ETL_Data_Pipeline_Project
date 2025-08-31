@@ -1,0 +1,16 @@
+product_id,product_name,category,subcategory,brand,price,cost,description
+PROD001,Wireless Headphones,Electronics,Audio,TechBrand,25.99,15.00,Bluetooth wireless headphones with noise cancellation
+PROD002,Smart Watch,Electronics,Wearables,TechBrand,89.99,55.00,Fitness tracking smartwatch with heart rate monitor
+PROD003,Coffee Mug,Home & Kitchen,Drinkware,HomeStyle,15.50,8.00,Ceramic coffee mug with ergonomic handle
+PROD004,Running Shoes,Sports & Outdoors,Footwear,SportMax,199.99,90.00,Professional running shoes with advanced cushioning
+PROD005,Desk Lamp,Home & Kitchen,Lighting,HomeStyle,45.00,22.00,LED desk lamp with adjustable brightness
+PROD006,Phone Case,Electronics,Accessories,TechBrand,12.99,6.00,Protective phone case with drop protection
+PROD007,Notebook Set,Office Supplies,Stationery,PaperCorp,8.50,4.00,Pack of 3 lined notebooks for office use
+PROD008,Bluetooth Speaker,Electronics,Audio,TechBrand,299.99,150.00,Portable Bluetooth speaker with 360-degree sound
+PROD009,Yoga Mat,Sports & Outdoors,Fitness,SportMax,33.33,18.00,Non-slip yoga mat for home and studio practice
+PROD010,Kitchen Scale,Home & Kitchen,Appliances,HomeStyle,150.00,75.00,Digital kitchen scale with precision measurement
+PROD011,Backpack,Fashion,Bags,StyleCorp,75.00,35.00,Waterproof backpack for daily commute
+PROD012,Pen Set,Office Supplies,Stationery,PaperCorp,5.99,2.50,Set of 5 ballpoint pens in assorted colors
+PROD013,Tablet Stand,Electronics,Accessories,TechBrand,120.00,60.00,Adjustable tablet stand for desk and travel
+PROD014,Scented Candles,Home & Kitchen,Decor,HomeStyle,22.50,10.00,Set of 3 scented candles with relaxing fragrances
+PROD015,Gaming Mouse,Electronics,Computer,TechBrand,399.99,200.00,High-precision gaming mouse with RGB lighting
