@@ -1,6 +1,6 @@
-# E-commerce ETL Data Pipeline
+# E-commerce ETL Data Pipeline(Currently working on)
 
-## Project Overview
+## Project Overview # ON PROGRESS 
 
 This project implements a scalable ETL (Extract, Transform, Load) data pipeline for processing e-commerce sales data. The pipeline transforms raw transactional data into a clean, analytics-ready star schema that enables business intelligence and reporting.
 
