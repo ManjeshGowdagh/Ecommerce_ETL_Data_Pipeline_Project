@@ -9,6 +9,7 @@ from datetime import datetime
 from typing import Dict, List, Tuple, Any
 from pyspark.sql import SparkSession, DataFrame
 from pyspark.sql.functions import col, count, sum as spark_sum, when, isnan, isnull
+from pyspark.sql.functions import mean, min as spark_min, max as spark_max, desc</parameter>
 
 from config.pipeline_config import CONFIG
 

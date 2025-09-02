@@ -8,7 +8,7 @@ from pyspark.sql import SparkSession, DataFrame
 from pyspark.sql.functions import (
     col, when, isnan, isnull, regexp_replace, to_date, 
     year, month, dayofmonth, dayofweek, date_format,
-    median, mean, stddev, max as spark_max, min as spark_min,
+    mean, stddev, max as spark_max, min as spark_min,
     monotonically_increasing_id, desc, asc
 )
 from pyspark.sql.types import DoubleType, IntegerType
